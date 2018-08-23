@@ -1,8 +1,8 @@
 {
-  "name": "vue-typescript-bulma-template",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Brady Holt <brady.holt@gmail.com>",
+  "name": "fullstackvoyage.github.io",
+  "version": "0.0.1",
+  "description": "software development resouces for adventurous devs",
+  "author": "Michael Garten <mjgartendev@gmail.com>",
   "scripts": {
     "build": "rm -rf dist/* && npx webpack --progress --config webpack.config.prod.js",
     "dev": "npx webpack-dev-server --progress --config webpack.config.dev.js",

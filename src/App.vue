@@ -1,6 +1,5 @@
 <template>
-  <div id="app-container" class="container has-text-centered">
-    <img src="./assets/logo.png">
+  <div id="app-container" class="container-fluid">
     <router-view/>
   </div>
 </template>
